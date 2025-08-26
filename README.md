@@ -43,16 +43,3 @@ And yeah… it works 🍕
 
 ---
 
-## ✨ Features Worth Bragging About
-
-| 🍕 Feature               | 😎 Why It’s Cool |
-|--------------------------|------------------|
-| OTP Login                | No passwords, no problems |
-| JWT Auth                 | Secure, scalable sessions |
-| Add to Cart              | Customize your pizza dreams |
-| Image Upload (Admin)     | Store images on Cloudinary CDN |
-| MongoDB Atlas            | Your orders live in the cloud |
-| Modular Codebase         | Easy to extend and maintain |
-| Axios + REST API         | Like peanut butter and jelly |
-
----
