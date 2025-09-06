@@ -28,11 +28,6 @@ And yeah… it works 🍕
 
 ## 🛠️ Tech Stack – A Slice of Everything
 
-### 🍕 Frontend
-- **React.js** – UI magic  
-- **Vite** – Lightning-fast dev builds  
-- **Axios** – Clean HTTP requests  
-- **Undraw.co** – SVGs to make it pop
 
 ### 🔐 Backend
 - **Node.js + Express** – RESTful API backbone  
